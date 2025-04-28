@@ -1,7 +1,7 @@
 # Telecom-customer-churn-analysis
  Exploratory data analysis project on telecom customer churn using Python. Includes data cleaning, churn insights, and visualizations using Pandas, Matplotlib, and Seaborn.
 
-# Telecom Customer Churn Analysis 
+
 
 ## Project Overview
 This project uses Python to explore customer churn behavior in a telecom company. The goal is to identify patterns that contribute to customer churn and suggest strategies for improving customer retention.
